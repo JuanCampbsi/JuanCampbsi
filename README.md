@@ -1,16 +1,20 @@
 <div align="center">
         
-## JuanCampbsi GitHub 🚀💻
+## Welcome! I'm JuanCampbsi GitHub 🚀💻
 <div style="display: inline_block"><br>
+        
+### ✨&nbsp; Seeking knowledge all the time  
+Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
+   
  
 </div>
 <br />
 <div style="display: inline_block"><br>
-  <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Juan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juan-Js" height="30" width="95" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Juan-React" height="30" width="95" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
+  <img align="center" alt="Juan-ReactNative" height="30" width="120" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img align="center" alt="Juan-Ts" height="30" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img align="center" alt="Juan-Node" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
 </div><br />
   
