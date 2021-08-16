@@ -21,8 +21,15 @@
 <br/><br/>
   
 
-<a href="mailto:juancampos.bsi@gmail.com">
-<img align="center" src="http://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail&link=mailto:juancampos.bsi@gmail.com" />
+<div> 
+  <!-- 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+-->
+ <a href="https://discord.gg/Juan Campos#9954" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:juancampos.bsi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juancampos-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--
 **ss-won/ss-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
