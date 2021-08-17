@@ -1,8 +1,9 @@
 <div align="center">
         
 ## Welcome! I'm JuanCampbsi GitHub 🚀💻
-<div style="display: inline_block"><br>
-        
+<div style="display: inline_block">
+ 
+## About me        
 ### ✨&nbsp; Seeking knowledge all the time  
 Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
    
