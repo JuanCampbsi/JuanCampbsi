@@ -1,21 +1,23 @@
+
 <div align="center">
         
-## Welcome! I'm JuanCampbsi GitHub 🚀💻
+## Welcome! This is my GitHub 🚀💻 
 <div style="display: inline_block">
- 
-## About me        
-### ✨&nbsp; Seeking knowledge all the time  
+ <img src="https://i.ibb.co/VHQRw7P/cover.png" alt="cover" width=600 border="0"> <br/>
+        
+### About me  
+  ✨&nbsp; Seeking knowledge all the time  
 Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
    
- 
+
 </div>
 <br />
 <div style="display: inline_block"><br>
-  <img align="center" alt="Juan-Js" height="30" width="95" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Juan-React" height="30" width="95" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
-  <img align="center" alt="Juan-ReactNative" height="30" width="120" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img align="center" alt="Juan-Ts" height="30" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img align="center" alt="Juan-Node" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Juan-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Juan-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
+  <img align="center" alt="Juan-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img align="center" alt="Juan-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img align="center" alt="Juan-Node" " src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
 </div><br />
   
@@ -37,3 +39,4 @@ Tech Enthusiast and a Explorer always inclined towards learning with a positive 
 <!--
 **ss-won/ss-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 </div>
+
