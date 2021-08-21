@@ -6,7 +6,7 @@
  <img src="https://i.ibb.co/VHQRw7P/cover.png" alt="cover" width=600 border="0"> <br/>
         
 ### About me   👨‍💻 
-  ✨&nbsp; Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
+  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
    
 
 </div>
