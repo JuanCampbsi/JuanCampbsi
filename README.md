@@ -1,10 +1,15 @@
         
+<div align="center">
+        
 ## Welcome! This is my GitHub 🚀💻 
-<div style="display: inline_block">
+        
+</div>
 
+<div style="display: inline_block">
         
 ### About me   👨‍💻 
   Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
+        
 <div align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
