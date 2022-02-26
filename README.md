@@ -11,7 +11,7 @@
   Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset. 
   <div align="center">  
   <img width="300" heigth="200" src="https://i.ibb.co/Jt7gPLv/Ready-Player-Me-Avatar-1.png" />
-  <br/>  <br/> 
+  <br/> 
   </div>
         
 <div align="center">
