@@ -8,7 +8,9 @@
 <div style="display: inline_block">
         
 ### About me   👨‍💻 
-  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.    
+  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset. 
+  <img src="https://readyplayer.me/gallery/Fs9Tehh5e" />
+  <br/> 
         
 <div align="center">
   
